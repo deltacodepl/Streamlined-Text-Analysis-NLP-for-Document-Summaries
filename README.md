@@ -19,3 +19,12 @@ A tool designed to simplify text analysis and document summarization using Natur
 4. **Word Cloud Generation**: Explore the word cloud feature to visually identify the most common words in your text.
 
 
+This requires the following modules :
+
+Spacy
+NLTK
+Flask
+TextBlob
+NumPy
+Scikit-Learn
+pypdf2
