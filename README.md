@@ -29,6 +29,7 @@ NumPy
 Scikit-Learn
 pypdf2
 
+## Landing Page
 ## Text Summarization 
 ![image](https://github.com/hariharasudan3/Streamlined-Text-Analysis-NLP-for-Document-Summaries/assets/145860861/c91fa88a-1204-483b-a789-0628b135c5f3)
 ## Sentiment Analysis
