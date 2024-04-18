@@ -29,7 +29,7 @@ NumPy
 Scikit-Learn
 pypdf2
 
-## Landing Page
+## Web Page
 ![image](https://github.com/hariharasudan3/Streamlined-Text-Analysis-NLP-for-Document-Summaries/assets/145860861/3263828a-e9d0-42de-a1aa-9f55a40d8443)
 
 ## Text Summarization 
