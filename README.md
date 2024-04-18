@@ -30,9 +30,16 @@ Scikit-Learn
 pypdf2
 
 ## Landing Page
+![image](https://github.com/hariharasudan3/Streamlined-Text-Analysis-NLP-for-Document-Summaries/assets/145860861/3263828a-e9d0-42de-a1aa-9f55a40d8443)
+
 ## Text Summarization 
+![image](https://github.com/hariharasudan3/Streamlined-Text-Analysis-NLP-for-Document-Summaries/assets/145860861/7ab6c727-8837-4b13-9df0-72f200849b8c)
+
 ## Sentiment Analysis
+![image](https://github.com/hariharasudan3/Streamlined-Text-Analysis-NLP-for-Document-Summaries/assets/145860861/c7835813-c542-4d37-90b5-f9d40ed1fc9c)
+
 ## Word Cloud
+![image](https://github.com/hariharasudan3/Streamlined-Text-Analysis-NLP-for-Document-Summaries/assets/145860861/8b8d1d47-f014-4f85-bd5a-2df2042f4a5e)
 
 
 
