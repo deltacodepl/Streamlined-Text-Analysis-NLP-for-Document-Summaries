@@ -31,9 +31,12 @@ pypdf2
 
 ## Python version 3.10 - 3.11
 Install modules by<br>
+
 ```pip install -r requirements.txt```
 <br>
+
 To run, <br>
+
 ```python app.py```
 
 ## Web Page
