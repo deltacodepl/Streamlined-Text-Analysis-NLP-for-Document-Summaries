@@ -34,7 +34,7 @@ Install modules by<br>
 ```pip install -r requirements.txt```
 <br>
 
-To run, <br>
+To run the application, <br>
 ```python app.py```
 
 ## Web Page
