@@ -19,7 +19,7 @@ A tool designed to simplify text analysis and document summarization using Natur
 4. **Word Cloud Generation**: Explore the word cloud feature to visually identify the most common words in your text.
 
 
-This requires the following modules :
+**This requires the following modules :**
 
 Spacy
 NLTK
@@ -28,6 +28,14 @@ TextBlob
 NumPy
 Scikit-Learn
 pypdf2
+
+## Python version 3.10 - 3.11
+
+**To install modules, run**
+pip install -r requirements.txt
+
+**Run the application by**
+python app.py
 
 ## Web Page
 ![image](https://github.com/hariharasudan3/Streamlined-Text-Analysis-NLP-for-Document-Summaries/assets/145860861/3263828a-e9d0-42de-a1aa-9f55a40d8443)
