@@ -32,9 +32,11 @@ pypdf2
 ## Python version 3.10 - 3.11
 
 **To install modules, run**
+
 ![image](https://github.com/hariharasudan3/Streamlined-Text-Analysis-NLP-for-Document-Summaries/assets/145860861/d9f49aea-dc18-4dd2-a279-7991b90a7d0a)
 
 **Run the application by**
+
 ![image](https://github.com/hariharasudan3/Streamlined-Text-Analysis-NLP-for-Document-Summaries/assets/145860861/73ccdaf7-f0f5-4d6e-be55-37d8b7924a12)
 
 ## Web Page
