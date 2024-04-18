@@ -31,11 +31,9 @@ pypdf2
 
 ## Landing Page
 ## Text Summarization 
-![image](https://github.com/hariharasudan3/Streamlined-Text-Analysis-NLP-for-Document-Summaries/assets/145860861/c91fa88a-1204-483b-a789-0628b135c5f3)
 ## Sentiment Analysis
-![image](https://github.com/hariharasudan3/Streamlined-Text-Analysis-NLP-for-Document-Summaries/assets/145860861/24e16bd9-b6ce-43fd-92f3-e943b424df25)
 ## Word Cloud
-![image](https://github.com/hariharasudan3/Streamlined-Text-Analysis-NLP-for-Document-Summaries/assets/145860861/04393812-7dfc-4733-8235-449956ab9cf9)
+
 
 
 
