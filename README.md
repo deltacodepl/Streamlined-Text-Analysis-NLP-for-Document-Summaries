@@ -38,16 +38,17 @@ To run the application <br>
 ```python app.py```
 
 ## Web Page
-![image](https://github.com/hariharasudan3/Streamlined-Text-Analysis-NLP-for-Document-Summaries/assets/145860861/3263828a-e9d0-42de-a1aa-9f55a40d8443)
+![image](https://github.com/hariharasudan3/Streamlined-Text-Analysis-NLP-for-Document-Summaries/assets/145860861/9f2553ec-1965-4937-b013-fb310a1adc5a)
 
 ## Text Summarization 
-![image](https://github.com/hariharasudan3/Streamlined-Text-Analysis-NLP-for-Document-Summaries/assets/145860861/7ab6c727-8837-4b13-9df0-72f200849b8c)
+![image](https://github.com/hariharasudan3/Streamlined-Text-Analysis-NLP-for-Document-Summaries/assets/145860861/64cffdfb-02cb-41cf-9f1c-261a52873316)
 
 ## Sentiment Analysis
-![image](https://github.com/hariharasudan3/Streamlined-Text-Analysis-NLP-for-Document-Summaries/assets/145860861/c7835813-c542-4d37-90b5-f9d40ed1fc9c)
+![image](https://github.com/hariharasudan3/Streamlined-Text-Analysis-NLP-for-Document-Summaries/assets/145860861/9fba9d91-6b66-44fa-a7e9-c675f69acfdc)
 
 ## Word Cloud
-![image](https://github.com/hariharasudan3/Streamlined-Text-Analysis-NLP-for-Document-Summaries/assets/145860861/8b8d1d47-f014-4f85-bd5a-2df2042f4a5e)
+![image](https://github.com/hariharasudan3/Streamlined-Text-Analysis-NLP-for-Document-Summaries/assets/145860861/18a7a3f6-910f-4526-8057-0557344af921)
+
 
 
 
